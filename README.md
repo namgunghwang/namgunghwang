@@ -1,49 +1,55 @@
-## Hi, I'm Kyle 👋
+<div align="center">
 
-**Android Engineer** with 6 years of experience building products that people actually use.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Engineer;Builder+%26+Creator;Designing+systems+that+last&font=Fira+Code&center=true&width=380&height=45&color=888888&vCenter=true&duration=3000&pause=1500&size=16)](https://git.io/typing-svg)
 
-Currently at **Hanwha Life**, previously shipped features at **TeamBlind** and grew **CARO** from 100 to 3,000+ users (30x).
-
----
-
-### What I'm building now
-
-I'm using AI to build a **short-form content automation tool** for creators — solo, from scratch.
-
-As a YouTube creator myself ([wouldburn](https://youtube.com/@wouldburn)), I know exactly where the pain points are.
-Domain expertise + engineering = a product that actually fits.
-
-**Target:** Ship by end of March 2026.
-
-I'm documenting the entire journey — the wins, the walls, and the lessons in between.
+</div>
 
 ---
 
-### Career highlights
+I design and ship mobile products. Six years of turning ambiguous problems into reliable systems — from architecture decisions to the pixel-level details users actually feel.
 
-| | |
+Not just writing code. Defining what to build, why it matters, and how it scales.
+
+---
+
+#### Background
+
+|  |  |
 |---|---|
-| **Hanwha Life** | Calendar UI rendering 40% faster · MVI architecture on financial platform |
-| **TeamBlind** | Monolith → Multi-module (build time -50%) · Jetpack Compose migration |
-| **CARO** | 100 → 3,149 users (30x) · Signup completion 44% → 80% |
-| **Dahda** | COVID contact tracing app · Patent granted (11-2020-0149311) |
+| **Hanwha Life** | Financial platform · MVI architecture · Calendar rendering optimized 40% |
+| **TeamBlind** | Monolith → multi-module (build -50%) · Jetpack Compose migration |
+| **CARO** | Full native rebuild · 100 → 3,149 users · Signup flow 44% → 80% |
+| **Dahda** | COVID contact tracing · Patent 11-2020-0149311 |
+
+#### Now
+
+Building an AI-powered short-form content tool — solving a problem I face daily as a creator.
+
+Running [wouldburn](https://youtube.com/@wouldburn). Documenting the build process [in public](https://github.com/namgunghwang/content-lab).
+
+#### Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+`Clean Architecture` `MVI` `Multi-Module` `Coroutines` `Flow`
 
 ---
 
-### Tech stack
+<div align="center">
 
-`Kotlin` `Java` `Android SDK` `Jetpack Compose` `Clean Architecture` `MVI` `MVVM` `Multi-Module` `Coroutines` `Flow` `Retrofit` `Room`
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namgunghwang&theme=transparent&show_icons=true&hide_title=true&hide=stars,issues&count_private=true&text_color=888888&icon_color=888888&ring_color=555555&hide_border=true)](https://github.com/namgunghwang)
 
----
-
-### Writing
-
-I write about the intersection of **engineering, AI, and personal growth**.
-
-- **LinkedIn** — Short, hook-driven posts on building with AI
-- **Wanted InsaLong** — Deep essays on career, metacognition, and the builder's mindset
-- Content lab: [namgunghwang/content-lab](https://github.com/namgunghwang/content-lab)
+</div>
 
 ---
 
-<sub>Building in public. Shipping before it's perfect.</sub>
+<sub>Build first. Perfect later.</sub>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hwang-namgung-593533265)
+[![YouTube](https://img.shields.io/badge/wouldburn-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@wouldburn)
+
+</div>
